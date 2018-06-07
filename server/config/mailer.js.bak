@@ -1,0 +1,5 @@
+// URL: https://www.mailgun.com/
+module.exports = {
+  MAILGUN_USER: 'secret.mailgun.org',
+  MAILGUN_PASS: 'secret-secret'
+};

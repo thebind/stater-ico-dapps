@@ -1,0 +1,14 @@
+module.exports = {
+  JWT_SECRET: 'secret',
+  oauth: {
+    google: {
+      clientID: 'secret-secret.apps.googleusercontent.com',
+      clientSecret: 'secret'
+    },
+    facebook: {
+      clientID: 'secret',
+      clientSecret: 'secret'
+    }
+  },
+  mongoURI: 'mongodb://localhost/binddb'
+};
